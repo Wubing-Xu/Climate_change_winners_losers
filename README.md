@@ -8,8 +8,6 @@ In this repository, the selected metacommunity time series can be accessed:
   data/Combined_assemblages.RDATA
 ```
 
-The first RDATA file contains filtered dataset based on grid-based approach, and the second contains only sites in same geographic coordinates sampled across years (see manuscript for more details).
-
 ## R Analysis Files
 These scripts were used to prepare the data for analysis, calculate species' thermal limits and positions, calculate temporal changes in occupancy and abundance, fit models and produce figures.
 
